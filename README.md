@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hanishOSU
+- 👋 Hi, I’m Hanish
 - 👀 I’m interested in learning Backend Web development and DSA
 
 <!---
